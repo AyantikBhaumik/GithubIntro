@@ -5,3 +5,4 @@ Bananas
 Carrots
 Cherries
 Oranges
+Cereals
