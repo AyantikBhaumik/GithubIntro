@@ -10,3 +10,4 @@ Eggplants
 Avocado
 Toothpaste
 Hello World
+Sugar
